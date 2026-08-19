@@ -55,23 +55,7 @@ The application provides visualizations including:
 * Loan Purpose Distribution
 * Employment Type Distribution
 
-## 🖥️ Application Screenshots
 
-### Dashboard
-
-![Dashboard](images/dashboard.png)
-
-### Loan Prediction
-
-![Prediction](images/prediction.png)
-
-### Exploratory Data Analysis
-
-![EDA](images/eda.png)
-
-### Dataset Overview
-
-![Dataset](images/dataset.png)
 
 ## 🛠️ Technologies Used
 
